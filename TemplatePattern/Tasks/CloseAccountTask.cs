@@ -8,7 +8,7 @@
 
         protected override void DoExecute()
         {
-            Console.WriteLine("Account Opened");
+            Console.WriteLine("Account Closed");
         }
     }
 }
